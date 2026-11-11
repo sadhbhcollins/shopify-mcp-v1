@@ -17,6 +17,17 @@
 3. **Monthly retainer**: email campaigns, flow tweaks, and small store fixes.
 4. **Later: ads.** Only once their back end is solid and they trust me.
 
+### How it fits together: "Capture → Convert → Keep"
+I'm not "the email person"; I turn more of a store's visitors into repeat customers.
+- **Capture**: sign-up pop-ups and forms that grow their email list
+- **Convert**: store fixes from the audit + abandoned-cart flows
+- **Keep**: welcome, post-purchase and win-back flows + **automated review requests** (Judge.me with Klaviyo)
+
+### Audit: diagnose AND fix
+- **Store Health Check** (£150–£300): the findings, a ranked top 10, and a screen recording. Can be marketed on its own.
+- **Fix package** (extra fee): I make the no-code fixes myself. The audit fee is credited if they go ahead.
+- Why implement: owners rarely make the changes themselves, it earns more, and I get before/after results for case studies.
+
 ### Rules I've agreed with myself
 - **No Instagram management, branding or content creation.** It dilutes the pitch, takes a lot of time, and the results are hard to prove.
 - **Add a service only when 3+ paying clients ask for it.**
