@@ -83,7 +83,7 @@ Don't wait to feel ready. **Start outreach in week 4 regardless.**
 |---|---|---|
 | 1 | **Klaviyo Academy**: the email marketing basics and flows courses only | I can explain welcome, abandoned-cart and post-purchase flows out loud |
 | 2 | **Build** the 3 flows in a free Shopify dev store + free Klaviyo account. Screenshot or record them. | 3 working flows = my first portfolio piece |
-| 3 | **Audit** 3 real stores using the checklist below (practice only) | 3 audits done, with mock-up emails for the best one |
+| 3 | **Audit learning**: ~1–2 hrs of YouTube "Shopify store review/teardown" videos, then audit 1 great store + 3 weaker stores using the checklist below (practice only) | 3 audits done, with mock-up emails for the best one |
 | 4 | **Start outreach**: first 10 brands, first market visit | 10 messages sent |
 
 **SEO:** no full course. Spend **2 hours max** on Google's free *SEO Starter Guide* plus a couple of beginner YouTube videos. That's enough to follow the conversation. It's not my service, so I don't need to be an expert.
