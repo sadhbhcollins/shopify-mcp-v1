@@ -28,6 +28,15 @@ I'm not "the email person"; I turn more of a store's visitors into repeat custom
 - **Fix package** (extra fee): I make the no-code fixes myself. The audit fee is credited if they go ahead.
 - Why implement: owners rarely make the changes themselves, it earns more, and I get before/after results for case studies.
 
+### First-client pricing
+- **Store Health Check: free** for the first 2–3 brands. It's my pitch tool anyway.
+- **Email setup (3 flows): "founding client rate" £200–£300**, stated as "normally £600".
+- In exchange: a testimonial, permission to use the results as a case study, and 1–2 referrals.
+- Raise prices after 2–3 clients. Never fully free for the setup itself.
+
+### Using Claude
+Claude helps with: flow plans and timing, email copy in each brand's voice, subject lines, HTML email designs to paste into Klaviyo, audit write-ups, outreach messages. I still click it together in Klaviyo myself and must understand it well enough to explain it to a client.
+
 ### Rules I've agreed with myself
 - **No Instagram management, branding or content creation.** It dilutes the pitch, takes a lot of time, and the results are hard to prove.
 - **Add a service only when 3+ paying clients ask for it.**
