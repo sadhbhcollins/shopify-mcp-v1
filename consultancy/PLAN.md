@@ -160,7 +160,14 @@ Score each item ✅ fine / ⚠️ could improve / ❌ missing. Pick the top 10 b
 - Neuroscience TikTok: film in batches on weekends; Claude helps with edits.
 - Podcast: mostly handled by others.
 
+## Status (15 Nov 2026)
+- Most of the Klaviyo flows course done; only the end left. The other 2 courses are to be done in work (videos are fine with interruptions).
+- Website is parked: it won't bring in money.
+- **First-client target identified.** Black Friday is 27 Nov, so pitch early in the week of 16 Nov. Keep the offer small and quick, e.g. an abandoned-cart flow live before Black Friday.
+
 ## Next steps to pick up
-- [ ] Start Klaviyo Academy (week 1)
+- [x] Start Klaviyo Academy (week 1)
+- [ ] Finish the end of the flows course
+- [ ] Draft the Black Friday pitch for the target client
 - [ ] Set up Shopify dev store + Klaviyo account
 - [ ] Ask Claude for: a one-page offer sheet, a DM version of the outreach message, a pricing sanity check
