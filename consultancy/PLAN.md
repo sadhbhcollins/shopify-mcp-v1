@@ -166,7 +166,7 @@ Score each item ✅ fine / ⚠️ could improve / ❌ missing. Pick the top 10 b
 - **First-client target: Diya Dublin** (Dublin-based Shopify brand, great product, clear website gaps).
   - Pitch: a Loom walkthrough of 3–5 store fixes + sample welcome/abandoned-cart emails.
   - Price: **€250 founding rate** for the month-one setup.
-  - Timing: Black Friday is 27 Nov. Send by **Wed 18 Nov**. Lead with "abandoned cart live before Black Friday"; if that's too tight, pivot to "ready for Christmas and January sales."
+  - Timing: Black Friday is 27 Nov. Send on **Thu 19 Nov**. Lead with "abandoned cart live before Black Friday"; if that's too tight, pivot to "ready for Christmas and January sales."
   - Don't wait for perfect. Send it while pitching 4–5 other brands in parallel, so no single reply matters too much.
 
 ## This week (16–22 Nov), in my own words
@@ -184,8 +184,8 @@ Score each item ✅ fine / ⚠️ could improve / ❌ missing. Pick the top 10 b
 ## Next steps to pick up
 - [x] Start Klaviyo Academy (week 1)
 - [ ] Finish the end of the flows course
-- [ ] Audit Diya Dublin + record Loom (Mon/Tue)
-- [ ] Send Diya Dublin pitch by Wed 18 Nov, follow up twice
+- [ ] Audit Diya Dublin (Wed) + record Loom (Thu)
+- [ ] Send Diya Dublin pitch Thu 19 Nov, follow up twice
 - [ ] Pick 4 more brands to pitch with the same template
 - [ ] Set up Shopify dev store + Klaviyo account
 - [ ] Ask Claude for: a one-page offer sheet, a DM version of the outreach message, a pricing sanity check
