@@ -172,7 +172,13 @@ Score each item ✅ fine / ⚠️ could improve / ❌ missing. Pick the top 10 b
 ## This week (16–22 Nov), in my own words
 
 **Consultancy**
-- Mon: Finish the end of the Klaviyo flows course + the 2 video courses + order a whiteboard
+- Mon:
+  - Finish the end of the Klaviyo flows course + the 2 video courses
+  - Order a whiteboard
+  - Verify Monzo and Trading 212 accounts
+  - Apply to editing job
+  - Reach out to head of marketing
+  - Hoover glass outside when home
 - Tue: Welcome and abandoned-cart emails
 - Wed: Finish welcome and abandoned-cart emails + audit Diya Dublin's store using the checklist
 - Thurs: Record the Loom walkthrough, send the pitch to Diya Dublin
