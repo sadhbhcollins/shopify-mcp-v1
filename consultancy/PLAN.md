@@ -190,6 +190,8 @@ Score each item ✅ fine / ⚠️ could improve / ❌ missing. Pick the top 10 b
 ## Next steps to pick up
 - [x] Start Klaviyo Academy (week 1)
 - [x] Finish the beginner Klaviyo course (16 Nov)
+- [x] Recorded "Build your first Klaviyo flow" training (16 Nov)
+- [x] Build relationships with automated flows course (16 Nov): all Klaviyo learning done
 - [ ] Audit Diya Dublin (Wed) + record Loom (Thu)
 - [ ] Send Diya Dublin pitch Thu 19 Nov, follow up twice
 - [ ] Pick 4 more brands to pitch with the same template
