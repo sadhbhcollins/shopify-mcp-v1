@@ -193,7 +193,8 @@ Score each item ✅ fine / ⚠️ could improve / ❌ missing. Pick the top 10 b
 - [x] Recorded "Build your first Klaviyo flow" training (16 Nov)
 - [x] Build relationships with automated flows course (16 Nov): all Klaviyo learning done
 - [ ] Audit Diya Dublin (Wed) + record Loom (Thu)
-- [ ] Send Diya Dublin pitch Thu 19 Nov, follow up twice
+- [x] Sent Diya Dublin pitch (Loom + emails) Fri 20 Nov
+- [ ] Follow up #1 Tue 24 Nov if no reply; #2 around Tue 1 Dec
 - [ ] Pick 4 more brands to pitch with the same template
 - [ ] Set up Shopify dev store + Klaviyo account
 - [ ] Ask Claude for: a one-page offer sheet, a DM version of the outreach message, a pricing sanity check
